@@ -2,7 +2,7 @@
 
 <!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [!
 
 <!--rehype:style=text-align: center;-->
 
@@ -62,7 +62,6 @@
 ### The Principles of ChatGPT
 
 - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - A long article on the principles of ChatGPT written by Stephen Wolfram, the father of WolframAlpha.
-- [深度学习论文精读](https://github.com/mli/paper-reading) - A collection of intensive reading resources for deep learning papers by Mu Li.
 - [OpenAI Research index](https://openai.com/research) - This page is a list of OpenAI’s research papers on various topics in artificial intelligence.
 - [HellaSwag (rowanzellers.com)](https://rowanzellers.com/hellaswag/)   [Can a Machine Really Finish Your Sentence?](https://github.com/rowanz/hellaswag)   Does AI have human common sense?The dataset download address and the scores of each large model.
 
@@ -70,11 +69,10 @@
 
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)：OpenAI’s staff tell you how to give clear and effective instructions to GPT.
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - This is a collection of prompt examples to be used with the ChatGPT model.
-- [ChatGPT 中文调教指南](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - This is a collection of Chinese prompt examples.
 - [ChatGPT Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - A quick reference table of ChatGPT shortcuts is divided by domain and function, allowing users to filter by tags, search by keywords, and copy with a single click to utilize prompts.Even beginners can simply copy the prompt phrases, make minor modifications, and send them to ChatGPT to obtain the desired output.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, and resources for prompt engineering.
 - [Prompt Marketplace](https://promptbase.com/) - PromptBase is a marketplace for buying and selling quality prompts.
-- [Prompt 编写模式：如何将思维框架赋予机器（中文）](https://github.com/prompt-engineering/prompt-patterns#prompt-%E7%BC%96%E5%86%99%E6%A8%A1%E5%BC%8F%E5%A6%82%E4%BD%95%E5%B0%86%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6%E8%B5%8B%E4%BA%88%E6%9C%BA%E5%99%A8) - Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
+- Introduce a series of Prompt writing patterns to better apply Prompts to programming AI.
 - [ChatGPT 500 prompts](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov-) - 500 Prompts that are helpful for writers.
 
 ## OpenAI Official Rescources
@@ -160,27 +158,13 @@
 - [ChatGPT for Programmers: Build Python Apps in Seconds](https://www.udemy.com/course/chatgpt-for-programmers/) - This course teaches you how to use ChatGPT to build apps, fix bugs, and automate your workflow in Python or other programming languages.
 - More Courses: [Udemy → ChatGPT](https://www.udemy.com/courses/search/?src=ukw&q=ChatGPT)
 
-### Chinese-Videos
-
-- [ChatGPT 保姆级使用教程：注册、体验、底层逻辑原理解读！](https://www.bilibili.com/video/BV1HT411R7Lj/) ChatGPT introduction, biased bottom technology, biased bottom layer principle.
-- [【渐构】万字科普ChatGPT-4为什么会颠覆人类社会](https://www.bilibili.com/video/BV1MY4y1R7EN/?spm_id_from=333.880.my_history.page.click&vd_source=6faef52e732ccc3a4a525fe406ce9808):In the first 25 minutes of the video, it explained the principle of GPT in a simple and easy-to-understand way.
-
 ### English-Graphic-and-Textual
 
 - [The-Ultimate-ChatGPT-Guide](https://www.notion.so/8800517adc0d4c569d4a317c177185a1)
-- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources - 有中译版](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
+- [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://www.notion.so/b9a57ac0fcf74f30a1ab9e3e36fa1dc1)
 - [How to use ChatGPT APIs in Python](https://medium.com/@FrancescoZ/how-to-use-chatgpt-with-python-e7a8868e6034)
 - [Full ChatGPT Prompts + Resources](https://www.notion.so/8aa78bb226b7467ab59b70d2b27042e9)
 
-### Chinese-Graphic-and-Textual
-
-- [ChatGPT 终极指南 - 中译版](https://geekr.dev/posts/chatgpt-ultimate-guide)
-- [理解大语言模型——10 篇论文的简明清单](https://mp.weixin.qq.com/s/h7Pam1mepgd18aeqn7_3hw)
-- [拆解追溯 GPT-3.5 各项能力的起源 - 中译版](https://www.notion.so/360081d91ec245f29029d37b54573756)
-- [如何用 ChatGPT 构建你的专属知识问答机器人](https://blog.frankzhao.cn/build_gpt_bot_for_doc/)
-- [ChatGPT 商务速成 - 中译版](https://www.notion.so/8ce48bcb5aa94828a64c86a2dbfc307d)
-- [如何使用 Python 快速集成 ChatGPT API](https://mp.weixin.qq.com/s?__biz=MjM5MjU2NDk0Nw==&mid=2247507931&idx=2&sn=77f75026c365b73275f7ce3f2e7d0ab4&chksm=a6a6cc6791d14571df77a1a5c249bc46ffd03269b264aadbdfa43927e809b578d501a1c58f31&mpshare=1&scene=1&srcid=0308V8ZG15g6BE1TgRXPEWYa&sharer_sharetime=1678253425412&sharer_shareid=a697a75b41763c317bec849da7e5a35a#rd)
-- [追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## Venture Capitalists
 
@@ -238,7 +222,6 @@
 - [Perplexity AI](https://www.perplexity.ai/) - AI, which at its core combines a large-scale language model with a search engine to perform Q&A, providing users with the answers they need in the form of a continuous dialogue. Compared to ChatGPT, Perplexity AI is able to provide sources of information , but the fluency and completeness of its answers is slightly less than ChatGPT.
 - [MOSS](https://moss.fastnlp.top/) -Can perform a series of tasks such as dialogue generation, programming, fact answering, etc.
 - [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) This is a multibillion Chinese-English language model with basic question-and-answer and conversational capabilities, optimized for Chinese language.
-- [澜舟认知智能平台](https://langboat.com/technology/mengzi) Based on Mencius pre-training technology, unlock full-range AIGC capabilities such as text-image generation, literary assistance creation, marketing copywriting, paper assistance writing, etc.
 
 ### Competitors: LLMs
 
@@ -249,12 +232,6 @@
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) - An open-source language model that can chat and generate images. Created by EleutherAI.
 - [BLOOM](https://huggingface.co/bigscience/bloom) - by BigScience, BLOOM is an autoregressive Large Language Model (LLM), trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. As such, it is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn't been explicitly trained for, by casting them as text generation tasks.
 - [OPT]((https://arxiv.org/pdf/2205.01068)) - by Meta, The OPT model was proposed in Open Pre-trained Transformer Language Models by Meta AI. OPT is a series of open-sourced large causal language models which perform similar in performance to GPT3.
-
-### Research report
-
-- [230311 哈尔滨工业大学 ChatGPT 调研报告](https://www.baogaoting.com/info/248610)
-- [230221 ChatGPT 团队背景研究报告](https://chatgpt.greedyai.com/forgeneral/什么是ChatGPT/ChatGPT团队背景研究报告/)
-- [ChatGPT 报告 70 份论文](https://www.aliyundrive.com/s/V94kCe9qQnC)
 
 ## Literature Analysis
 
@@ -280,7 +257,7 @@
 - 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - This paper introduces GPT-3.
 - 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - This paper presents an RLHF approach to using supervised learning to fine-tuning. It is also known as a paper that illustrates the kernel of ChatGPT's thinking. Presumably, ChatGPT is an extended version of InstructGPT that enables fine-tuning on larger datasets.
 - 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) We report the development of GPT-4, a large-scale, multimodal model which can accept image and text inputs and produce text outputs.
-- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T 提取码: 5y6m
+- awesome-chatgpt-papers https://www.aliyundrive.com/s/RenfDZjta8T : 5y6m
 
 ### Recent advances in Prompt engineering
 
@@ -307,13 +284,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 Thank you to all contributors (in no particular order and in alphabetical order):
 
-- [Alex](https://github.com/Spehhhhh) - [@Spehhhhh](https://github.com/Spehhhhh)
-- [张天立](https://github.com/TL-Zhang) - [@TL-Zhang](https://github.com/TL-Zhang)
-- [林向东](https://github.com/eastling) - [@eastling](https://github.com/eastling)
-- [边心竹](https://reading.zhubai.love/) - [@bxz400](https://github.com/bxz400)
-- [郑嘻嘻](https://github.com/zhengxixuan) - [@zhengxixuan](https://github.com/zhengxixuan)
-- [黄啸锐](https://github.com/Lilhxr) - [@Lilhxr](https://github.com/Lilhxr)
-
+- [Alex](https://github.com/intellichain555)
 
 ## Contact
 
